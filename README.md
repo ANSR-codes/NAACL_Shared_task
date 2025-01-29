@@ -11,7 +11,7 @@ This repository contains the code used for submissions to the shared task:
 
 ## Experimental Results
 - The results of various experiments, including hyperparameter tuning and evaluation metrics, can be found in the **Excel files** included in this repository.  
-- The **final fine-tuned model** used for the best submission is also uploaded.  
+- The **final fine-tuned model** obtained after submission is also uploaded.  
 
 ## Ranked Predictions
 - The predictions that secured **Rank 8 (Malayalam) and Rank 20 (Tamil)** in the competition are included.  
