@@ -1,1 +1,14 @@
-# NAACL_Shared_task
+#NAACL_Shared_Task
+This repository contains the code used for submissions to the shared task:
+"Abusive Tamil and Malayalam Text Targeting Women on Social Media – DravidianLangTech@NAACL 2025".
+
+Setup & Execution
+All code was executed using Python 3.12.8
+Hardware specifications:
+CPU: Intel i5 12th Gen
+GPU: NVIDIA RTX 3050
+Experimental Results
+The results of various experiments, including hyperparameter tuning and evaluation metrics, can be found in the Excel files included in this repository.
+The final fine-tuned model used for the best submission is also uploaded.
+Ranked Predictions
+The predictions that secured Rank 8 (Malayalam) and Rank 20 (Tamil) in the competition are included.
