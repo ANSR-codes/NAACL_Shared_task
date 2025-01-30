@@ -7,7 +7,7 @@ This repository contains the code used for submissions to the shared task:
 - All code was executed using **Python 3.12.8**  
 - Hardware specifications:  
   - **CPU**: Intel i5 12th Gen  
-  - **GPU**: NVIDIA RTX 3050  
+  - **GPU**: NVIDIA RTX 3050 (XGB), NVIDIA A6000 (XLM-RoBerta-XXL)
 
 ## Experimental Results
 - The results of various experiments, including hyperparameter tuning and evaluation metrics, can be found in the **Excel files** included in this repository.  
