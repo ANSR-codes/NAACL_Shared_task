@@ -15,4 +15,7 @@ This repository contains the code used for submissions to the shared task:
 - The **final fine-tuned model** obtained after submission is also uploaded.  
 
 ## Ranked Predictions
-- The predictions that secured **Rank 8 (Malayalam) and Rank 20 (Tamil)** in the competition are included.  
+- The predictions that secured **Rank 8 (Malayalam) and Rank 20 (Tamil)** in the competition are included.
+
+## AI Disclosure
+- Portions of this project, including code debugging, and model training scripts, were assisted by AI tools such as ChatGPT. All final decisions and implementations were made by the project authors.
