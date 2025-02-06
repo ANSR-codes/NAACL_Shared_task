@@ -1,5 +1,6 @@
-# NAACL_Shared_Task
-
+# NAACL_Shared_Task 2     
+## DravidianLangTech 2025         
+        
 This repository contains the code used for submissions to the shared task:  
 **"Abusive Tamil and Malayalam Text Targeting Women on Social Media – DravidianLangTech@NAACL 2025"**.
 
