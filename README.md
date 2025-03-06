@@ -4,6 +4,9 @@
 This repository contains the code used for submissions to the shared task:  
 **"Abusive Tamil and Malayalam Text Targeting Women on Social Media – DravidianLangTech@NAACL 2025"**.
 
+## Dataset
+Dataset can be obtained from the website whose link is put up in decription    
+
 ## Setup & Execution
 - All code was executed using **Python 3.12.8**  
 - Hardware specifications:  
